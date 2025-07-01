@@ -73,6 +73,6 @@ A fun and functional finance management app designed to make tracking income, ex
 ## 📫 Let's Connect!
 
 * ✉️ Email: [sn06102005@gmail.com](mailto:sn06102005@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/nanditha-s-586724305](https://www.linkedin.com/in/nanditha-s-586724305)
+* 💼 LinkedIn: [linkedin.com/in/nanditha-s-586724305](www.linkedin.com/in/nanditha-s06)
 
 Thanks for visiting my GitHub! 💜
